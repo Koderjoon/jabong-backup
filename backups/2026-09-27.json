@@ -2101,6 +2101,146 @@
     "request_id": null,
     "student_id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
     "void_reason": "공결 승인 (생리공결)"
+   },
+   {
+    "id": "7bd4b569-0412-41a7-a360-2806044b6c6d",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "dd23d423-fc59-439e-9b75-76995d78e28e",
+    "void_reason": null
+   },
+   {
+    "id": "83f505d2-3ac4-4ddb-a291-4e358461846a",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "51e8ef8f-2372-4235-9631-19cdb1d87892",
+    "void_reason": null
+   },
+   {
+    "id": "beb62399-3ff6-413e-aaf1-89754eedc240",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "b25c6ab2-5990-4895-9b5c-a3a0936b7b20",
+    "void_reason": null
+   },
+   {
+    "id": "7a798588-bc9c-4ce6-afee-bdf74a76b098",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "5ad15852-8313-49ad-9ba4-b1672c0ade34",
+    "void_reason": null
+   },
+   {
+    "id": "c0fcd419-9622-42b6-9ec8-1c936bbb32b8",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "c3892d4c-19e9-4460-8312-a555da89c1a0",
+    "void_reason": null
+   },
+   {
+    "id": "f3f0cae0-56d1-4bd6-9a61-e5e812636ac7",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "a141a12a-8291-44ba-87f9-f2a0c38f1027",
+    "void_reason": null
+   },
+   {
+    "id": "45763138-8ca4-4f24-a438-420558fddeb1",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "전원",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T16:55:23.29123+00:00",
+    "request_id": null,
+    "student_id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
+    "void_reason": null
+   },
+   {
+    "id": "a0f98a89-9b49-43be-a2f7-fa376b87ff43",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "실습실 뒷정리 미흡",
+    "detail": "",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T17:02:40.678818+00:00",
+    "request_id": null,
+    "student_id": "c4acf34c-8779-40b4-9319-d816bbb48d2c",
+    "void_reason": null
+   },
+   {
+    "id": "a881f3fe-073d-4926-8833-159da150d172",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "지각",
+    "detail": "2번째",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T17:15:19.042298+00:00",
+    "request_id": null,
+    "student_id": "c3892d4c-19e9-4460-8312-a555da89c1a0",
+    "void_reason": null
+   },
+   {
+    "id": "58c04670-725f-48f5-87bc-25eb3a7a1e2b",
+    "src": "manual",
+    "date": "2026-09-27",
+    "item": "지각",
+    "detail": "2번째",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-09-26T17:15:19.042298+00:00",
+    "request_id": null,
+    "student_id": "a8ffd467-189d-41df-8c1c-c4860ca3d5cb",
+    "void_reason": null
    }
   ],
   "excuses": [
@@ -2157,13 +2297,6 @@
     "saved_at": "2026-09-26T14:52:35.758816+00:00"
    },
    {
-    "id": "cfbf3947-7007-4ab9-9291-c93bcfefdc53",
-    "date": "2026-09-27",
-    "label": "아침",
-    "morning": false,
-    "saved_at": null
-   },
-   {
     "id": "bf942baa-0b74-4247-9baf-f3868ca380a5",
     "date": "2026-09-24",
     "label": "아침",
@@ -2176,64 +2309,43 @@
     "label": "아침 출석",
     "morning": true,
     "saved_at": "2026-09-26T12:26:46.590221+00:00"
+   },
+   {
+    "id": "cfbf3947-7007-4ab9-9291-c93bcfefdc53",
+    "date": "2026-09-27",
+    "label": "아침",
+    "morning": false,
+    "saved_at": null
+   },
+   {
+    "id": "c504f742-5c3a-43f8-8336-12c169d63c84",
+    "date": "2026-09-06",
+    "label": "아침 출석",
+    "morning": true,
+    "saved_at": null
    }
   ],
   "presets": [
    {
-    "id": "43078b80-7015-4a48-9ae8-937ef23e3c22",
+    "id": "441852ea-e8a0-422b-864c-391c27991464",
     "name": "지각",
     "sort": 101,
     "owner": "부총대",
     "points": 1
    },
    {
-    "id": "53d57987-7f5b-41a1-a84f-9c67cf31e16e",
+    "id": "6892bf0d-0ff7-4fa8-b0a2-b910c8bc5aba",
     "name": "결석",
     "sort": 102,
     "owner": "부총대",
     "points": 2
    },
    {
-    "id": "7608f7e8-75c8-4928-b65f-1fbcabe74232",
-    "name": "지각",
-    "sort": 1,
-    "owner": "부총대",
-    "points": 1
-   },
-   {
-    "id": "493992b1-1a98-4fa2-a590-bbdd82f0077d",
-    "name": "결석",
-    "sort": 2,
-    "owner": "부총대",
-    "points": 2
-   },
-   {
-    "id": "4b0977e8-7e25-45b3-925e-df512aa60f3d",
+    "id": "b3846301-b69e-4481-89bf-ce078e493f02",
     "name": "실습실 뒷정리 미흡",
-    "sort": 3,
+    "sort": 103,
     "owner": "부총대",
     "points": 1
-   },
-   {
-    "id": "92b9d1ac-c478-408d-9821-485862b5f59d",
-    "name": "매점",
-    "sort": 4,
-    "owner": "부총대",
-    "points": -1
-   },
-   {
-    "id": "7f561a48-2ad8-4de6-bfa1-43c3a7a31426",
-    "name": "주번 지각",
-    "sort": 5,
-    "owner": "부총대",
-    "points": 1
-   },
-   {
-    "id": "6b20b38a-94c0-444d-8956-399efdf53349",
-    "name": "주번 결석",
-    "sort": 6,
-    "owner": "부총대",
-    "points": 2
    }
   ],
   "requests": [
@@ -3940,6 +4052,76 @@
     "created_by": "부총대",
     "approved_by": null,
     "requested_by": null
+   },
+   {
+    "ledger_id": "7bd4b569-0412-41a7-a360-2806044b6c6d",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "83f505d2-3ac4-4ddb-a291-4e358461846a",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "beb62399-3ff6-413e-aaf1-89754eedc240",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "7a798588-bc9c-4ce6-afee-bdf74a76b098",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "c0fcd419-9622-42b6-9ec8-1c936bbb32b8",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f3f0cae0-56d1-4bd6-9a61-e5e812636ac7",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "45763138-8ca4-4f24-a438-420558fddeb1",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a0f98a89-9b49-43be-a2f7-fa376b87ff43",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a881f3fe-073d-4926-8833-159da150d172",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "58c04670-725f-48f5-87bc-25eb3a7a1e2b",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
    }
   ],
   "ledger_revisions": [],
@@ -3965,5 +4147,5 @@
   ]
  },
  "version": 1,
- "createdAt": "2026-09-27 01:19"
+ "createdAt": "2026-09-27 06:03"
 }
