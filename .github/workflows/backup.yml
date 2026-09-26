@@ -1,6 +1,6 @@
 name: 매일 백업
 
-# 매일 새벽 3시 7분(한국 시간)에 자봉 장부 전체를 암호화해서 backups/ 에 올린다.
+# 매일 새벽 3시 7분(한국 시간)에 자봉 장부 전체를 backups/ 에 올린다.
 # 서버에 접속하므로 Supabase가 잠들지 않게 하는 효과도 있다.
 on:
   schedule:
@@ -22,8 +22,6 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          BACKUP_KEY: ${{ secrets.BACKUP_KEY }}
-          BACKUP_PASSWORD: ${{ secrets.BACKUP_PASSWORD }}
         run: node backup.mjs
       - name: 저장소에 올리기
         run: |
