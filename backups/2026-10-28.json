@@ -1,0 +1,2699 @@
+{
+ "format": "jabong-backup",
+ "tables": {
+  "links": [
+   {
+    "id": "store",
+    "url": "https://docs.google.com/spreadsheets/d/1as1eph4dCO_ks_pRimG_cUM9EujuIbSwTktNSoWPVyU/edit?usp=drivesdk"
+   }
+  ],
+  "ledger": [
+   {
+    "id": "f5d66857-0bf5-4339-aa02-d400f0bbc13f",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -11,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "7aadae36-e033-4fa3-bd50-148114c83328",
+    "void_reason": null
+   },
+   {
+    "id": "e8175199-25d2-44fc-8bc2-12a3b784c5b9",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -29,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "c3892d4c-19e9-4460-8312-a555da89c1a0",
+    "void_reason": null
+   },
+   {
+    "id": "b2b3c4cf-2b4b-4b29-a73f-73859361c6ab",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -15.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "6beab38a-2660-4320-94b1-e6e6115ee3dd",
+    "void_reason": null
+   },
+   {
+    "id": "93c43bc6-7a26-4573-b796-79740da34eec",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -3,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "51e8ef8f-2372-4235-9631-19cdb1d87892",
+    "void_reason": null
+   },
+   {
+    "id": "f545ca8c-8150-4ef7-92ea-e3ca51ebb7e1",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 2,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
+    "void_reason": null
+   },
+   {
+    "id": "22cbec4c-ef97-4859-a8b8-6f586513965a",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -33,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "0585ac59-4ac2-42b4-8353-a1c1d4fcc2a9",
+    "void_reason": null
+   },
+   {
+    "id": "393a89cf-ffaa-4ee1-8844-843444522ab8",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -7,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "5b3eba56-374e-4830-9fc0-38c286adf179",
+    "void_reason": null
+   },
+   {
+    "id": "d6f8345f-a341-4697-9d37-0965920e9603",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -13,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "97f8c74a-9e95-4415-aaba-8723fa7caa6c",
+    "void_reason": null
+   },
+   {
+    "id": "9249dcd2-f452-4c00-b014-d912f0b6a0ac",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -6,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "a0c2665b-848a-471a-96fc-cd0e03c3784b",
+    "void_reason": null
+   },
+   {
+    "id": "5a48bc7d-53c7-410f-bb89-a1da0f4cd996",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -27,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "21de587f-9858-4503-95a0-ac0a46f84ab7",
+    "void_reason": null
+   },
+   {
+    "id": "665999f8-3abc-4be3-b06d-563aed601cdd",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 17,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050",
+    "void_reason": null
+   },
+   {
+    "id": "68098c9f-2c16-4ce8-8c2c-f3fb9e0abaed",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 29.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "1a10b781-11e2-436a-abe7-0d3c01f0984f",
+    "void_reason": null
+   },
+   {
+    "id": "1c8a0426-31b7-44f0-b778-1f8882e0c533",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -4,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "191c3494-9e39-48dd-a033-77c0e3494799",
+    "void_reason": null
+   },
+   {
+    "id": "798f394b-10ce-4054-8c87-de0148c8ce68",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -47,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "846d0849-62c4-4fb4-881c-06e711db4d6c",
+    "void_reason": null
+   },
+   {
+    "id": "abc8b6ad-67c9-4a3b-aaad-79f8523c24f1",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -21,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "244fb78d-9769-4049-943f-0fe496694358",
+    "void_reason": null
+   },
+   {
+    "id": "f5b5a3d3-febd-4318-baa1-fde9eb695095",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 27.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "72344a38-0b1e-439f-bfb1-a4c34318079c",
+    "void_reason": null
+   },
+   {
+    "id": "dcb03c1e-4eb0-4eee-91c7-928f07af1cb0",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 21,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "276cf435-b1d9-4ab3-9a07-846bb5bddf3d",
+    "void_reason": null
+   },
+   {
+    "id": "964e29df-cdbe-4ed2-9e8e-1c27d66578b1",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 9.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "ab21ef1f-8954-4f79-9ac0-2c0345096b7a",
+    "void_reason": null
+   },
+   {
+    "id": "fd81fd33-73f7-4ba2-b08e-4ca59faa750f",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -33,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "f2cc680b-f7b8-4113-9ae6-eb8090755bf6",
+    "void_reason": null
+   },
+   {
+    "id": "fb394436-0711-4f31-a0a9-9f4c9c5590dc",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -12,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "5da8ff6f-6ad2-4a5c-8274-171489e93abc",
+    "void_reason": null
+   },
+   {
+    "id": "cffe8422-fe08-4b62-9002-dc5636ea8497",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -31.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d4e678b0-072b-4b8e-9c38-e87923553b61",
+    "void_reason": null
+   },
+   {
+    "id": "7cd4c366-2f28-4c53-8e03-438b732d0285",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -20,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "a8ffd467-189d-41df-8c1c-c4860ca3d5cb",
+    "void_reason": null
+   },
+   {
+    "id": "b02c3fc1-499c-4616-b12b-8fb4aee990e6",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -28,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "82bdec36-6445-4eaa-a4d4-825f347da906",
+    "void_reason": null
+   },
+   {
+    "id": "9b596b5e-0a7d-4831-a2e2-49691036adf3",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -17,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d1b24b20-7153-41ef-acef-19c5f500bcf5",
+    "void_reason": null
+   },
+   {
+    "id": "f246a436-e58e-4ef4-bc59-879b8c1488ef",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 24,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "dd23d423-fc59-439e-9b75-76995d78e28e",
+    "void_reason": null
+   },
+   {
+    "id": "8a0ae164-df33-45ab-9e0c-604b67436634",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -8,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "c9bbd256-f1bb-4a93-824f-185e5eb7a2ff",
+    "void_reason": null
+   },
+   {
+    "id": "15dbc337-cd25-4bc3-8730-5368b377ae56",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -55,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "7a773d91-6987-47e6-a7b9-8ffd7bdabd27",
+    "void_reason": null
+   },
+   {
+    "id": "b3c88e28-65f3-4b19-9e96-601c8beb4cbc",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -27,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d0b82204-ef54-436c-b2d9-03e1c43132cf",
+    "void_reason": null
+   },
+   {
+    "id": "9b33820e-7aa4-4457-a37b-1c67483fdd7c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -23.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "4de65c2d-13ce-47e3-9a3a-498b19f1c77a",
+    "void_reason": null
+   },
+   {
+    "id": "6f65052a-0bb5-4721-bcdb-f0bc7fbaf576",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -25,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "07d6bbcc-4a8b-4fe2-b005-7a75dac01249",
+    "void_reason": null
+   },
+   {
+    "id": "4f1b92eb-4d6a-4aa5-b69d-a112cec9747c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 18.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "2ea1d665-fb0e-425d-a443-141209a5efaf",
+    "void_reason": null
+   },
+   {
+    "id": "23a51150-87a2-4a72-8fd7-07c8fb6ea901",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -28,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "6a1e0090-4f2b-4349-b950-d6f9f1f15ec7",
+    "void_reason": null
+   },
+   {
+    "id": "42ab1a55-115a-47d7-93bd-e5850990787c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -4.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "aaf11c46-8d70-4b6d-a2a7-b71780f6178b",
+    "void_reason": null
+   },
+   {
+    "id": "c65fdffd-0ef2-4077-bbcb-ea2f8e3781ac",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -4,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d0c1a3d8-02e8-40c8-9aad-a8846b745272",
+    "void_reason": null
+   },
+   {
+    "id": "7dd59d2e-d965-47bb-9785-b3c8a83168af",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 40,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "67ab9db2-c08c-4b20-9998-68d2c8b8b645",
+    "void_reason": null
+   },
+   {
+    "id": "ffb4fa58-32e7-49b5-8f5a-d064d074de8c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 29,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "ff8827bd-4b48-4ac9-a21a-647caa9928a1",
+    "void_reason": null
+   },
+   {
+    "id": "ab69452c-3aa4-45dd-ab08-f95dd4f39f75",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -21.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "85254acb-bd4c-4ef1-871a-1807f863ba0e",
+    "void_reason": null
+   },
+   {
+    "id": "b8a5f3bf-85c4-4300-8674-feef2fdf4a01",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -12,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "5ad15852-8313-49ad-9ba4-b1672c0ade34",
+    "void_reason": null
+   },
+   {
+    "id": "abb93ebc-027b-498d-99d4-c06a47a52c1b",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -19.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "8c0b6d40-c5de-40ab-9178-5d8f9e9becee",
+    "void_reason": null
+   },
+   {
+    "id": "f8803f77-8ed4-46bf-9f87-c89261a724f3",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 16,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "13186c4b-05b3-45ae-be84-6681ff101c3c",
+    "void_reason": null
+   },
+   {
+    "id": "ac891c36-5b53-4fff-b5f9-afd0dc8a021c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -22,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "70247e48-bd75-4345-8f03-7c16d622f604",
+    "void_reason": null
+   },
+   {
+    "id": "0b843b24-c7b7-4cc3-92c8-0c7bf4cde4d2",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -30,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "dbbfe3b9-9ebd-42a1-aa8a-b0581f1c2fc2",
+    "void_reason": null
+   },
+   {
+    "id": "2866f6e6-ea6c-4c31-a660-39f17dee3797",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -41,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "9565e4fc-7ea7-42f8-ad4b-553748359a9e",
+    "void_reason": null
+   },
+   {
+    "id": "3d2a5de3-1613-4a2a-b7b4-5bee20eff693",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -22,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "b25c6ab2-5990-4895-9b5c-a3a0936b7b20",
+    "void_reason": null
+   },
+   {
+    "id": "97f1b9aa-6d39-459b-bb54-8bd1340641f8",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "23f1b9bc-af70-4efc-afcb-55b90efb307f",
+    "void_reason": null
+   },
+   {
+    "id": "a1aa70fd-00eb-4b5b-8139-a48315ca16b1",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "9bab2c3b-9893-4f43-9439-c49a5ec822c5",
+    "void_reason": null
+   },
+   {
+    "id": "652715fb-55dd-4e09-9d81-6f070032dd56",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 1.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d",
+    "void_reason": null
+   },
+   {
+    "id": "af26a374-b18e-486b-8e76-e4fa920bb551",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -38.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "b17bbec5-8149-45d4-8dcd-bf3dcc38273f",
+    "void_reason": null
+   },
+   {
+    "id": "10824ccc-9a17-4116-b129-ebafd1d3f585",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 20,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "68c9b940-7a31-4554-a260-63b51a7ec4ab",
+    "void_reason": null
+   },
+   {
+    "id": "93e77435-606f-4580-a758-1f1aa51bac32",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 8,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "f25e373d-4052-479e-89de-9d88ad0083bc",
+    "void_reason": null
+   },
+   {
+    "id": "5fe05d3d-bcfe-4d93-a941-bf65b4e01c36",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -10.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "cf5fa69c-3b16-4283-901c-67543066e89f",
+    "void_reason": null
+   },
+   {
+    "id": "eb2d8710-7b63-42bd-98f6-583fa7857530",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -33.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "4ac7c499-3049-4e2f-8cc4-cfdc8fadce5e",
+    "void_reason": null
+   },
+   {
+    "id": "46a3e193-0df4-4cfd-a969-88d0bf524a6c",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "922ac255-0ec2-41c1-b006-b7c7054e5e36",
+    "void_reason": null
+   },
+   {
+    "id": "40331339-ab21-45ba-a07c-e60a2973a6b4",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -61.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d9907c81-e677-4634-af67-5e5fb6b3a594",
+    "void_reason": null
+   },
+   {
+    "id": "ca7d6251-b606-4e4c-be0d-02dcb6899f35",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 34,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "65c9d6c6-b24e-420b-89b6-f19b57f9a7b7",
+    "void_reason": null
+   },
+   {
+    "id": "9a774365-f739-4756-a5d4-00b7994cfd2d",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -18.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "b10237df-3a8c-4bc2-8512-29c6111ee783",
+    "void_reason": null
+   },
+   {
+    "id": "4a9a7138-2668-462d-96c6-7ab295f68fa0",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -8,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "61b8fc42-3c5f-43ea-b1c8-ddcbdea423ff",
+    "void_reason": null
+   },
+   {
+    "id": "f7f19d99-462e-44a4-a4f8-d89e60f4f066",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -14,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "810eb504-4162-4f2d-a491-c6b0691b7960",
+    "void_reason": null
+   },
+   {
+    "id": "e6aaa5c6-666d-4e69-9bd5-8881e390e49d",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -2,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "77531312-eb23-44a5-822d-01b153936bd1",
+    "void_reason": null
+   },
+   {
+    "id": "ef79dccc-9b3c-45f7-a6ee-1a8a75c49e63",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -13,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "a141a12a-8291-44ba-87f9-f2a0c38f1027",
+    "void_reason": null
+   },
+   {
+    "id": "e545b2ef-7003-41ad-9ec5-522d6b670767",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -7.5,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "0347627d-4ebf-441b-9d95-216ac27d6692",
+    "void_reason": null
+   },
+   {
+    "id": "37a78f44-495d-4c35-a4c8-8e5a6a6e7877",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 22,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "db5d327b-3d7b-4074-a2ab-e6dbd38c7d66",
+    "void_reason": null
+   },
+   {
+    "id": "7170f367-6f35-4188-a867-3ee99d23e805",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -43,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "c4acf34c-8779-40b4-9319-d816bbb48d2c",
+    "void_reason": null
+   },
+   {
+    "id": "73e1f85d-09cc-47a5-939b-88e27ec89b69",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -38,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "fce87ffc-4e3e-4428-ab50-b343a606b595",
+    "void_reason": null
+   },
+   {
+    "id": "72497bfd-349f-42e9-80fd-35cd434495b9",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -7,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "5ab89f76-9679-4eda-9826-d3c06222bfa1",
+    "void_reason": null
+   },
+   {
+    "id": "6084f171-e3ea-48d9-9fa8-1d4d4fa19917",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -6,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "696a20e7-d7de-445b-80ef-f40647abbb36",
+    "void_reason": null
+   },
+   {
+    "id": "4c45c06f-31a9-4df6-870a-5c487aacbab9",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -12,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "4adc90c8-46a4-45b2-a954-df8a769448cf",
+    "void_reason": null
+   },
+   {
+    "id": "de25a603-3dda-463e-816c-7c1c64197707",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 4,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "e936b52d-82d4-42f2-8749-3c85afbcb0d3",
+    "void_reason": null
+   },
+   {
+    "id": "f89c23df-4b2b-4c3d-9fa2-967ff1aca61a",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": -47,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "d40b2906-3ccd-4df7-a287-f7dc77dfbe43",
+    "void_reason": null
+   },
+   {
+    "id": "d6a656b4-31b5-4c20-9040-ab8cd4ba9b25",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "922ac255-0ec2-41c1-b006-b7c7054e5e36",
+    "void_reason": null
+   },
+   {
+    "id": "a9c353be-a94c-4f1e-aa28-09ccc439297a",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050",
+    "void_reason": null
+   },
+   {
+    "id": "a8314fba-2142-4077-976c-ad41a1704456",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "ab21ef1f-8954-4f79-9ac0-2c0345096b7a",
+    "void_reason": null
+   },
+   {
+    "id": "8f7b6de0-5bb9-469a-80bd-32e17f1a7891",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "d0b82204-ef54-436c-b2d9-03e1c43132cf",
+    "void_reason": null
+   },
+   {
+    "id": "23f0901e-c71f-40db-ac85-42d71b54b98b",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "4ac7c499-3049-4e2f-8cc4-cfdc8fadce5e",
+    "void_reason": null
+   },
+   {
+    "id": "d8c78358-732a-484d-ba8c-e8f0dd945891",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "d40b2906-3ccd-4df7-a287-f7dc77dfbe43",
+    "void_reason": null
+   },
+   {
+    "id": "6e4a7c66-8077-4645-ad37-fb0ea65b9272",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "c9bbd256-f1bb-4a93-824f-185e5eb7a2ff",
+    "void_reason": null
+   },
+   {
+    "id": "44152c8a-61b3-4401-8a86-69721b77e4ad",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "9bab2c3b-9893-4f43-9439-c49a5ec822c5",
+    "void_reason": null
+   },
+   {
+    "id": "a16fab0c-8954-45f6-8130-0cd0510bffc2",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "696a20e7-d7de-445b-80ef-f40647abbb36",
+    "void_reason": null
+   },
+   {
+    "id": "db79e697-5425-4acc-9896-4949129aa13e",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "아침 출석",
+    "points": 1,
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "voided_at": null,
+    "created_at": "2026-10-26T23:22:30.635937+00:00",
+    "request_id": null,
+    "student_id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d",
+    "void_reason": null
+   },
+   {
+    "id": "bb6ca8b6-571e-494d-9c7a-3879e9f63241",
+    "src": "manual",
+    "date": "2026-10-27",
+    "item": "조교쌤 지적",
+    "detail": "",
+    "points": 1,
+    "period_id": null,
+    "voided_at": "2026-10-27T14:03:43.959115+00:00",
+    "created_at": "2026-10-27T14:01:05.458103+00:00",
+    "request_id": null,
+    "student_id": "65c9d6c6-b24e-420b-89b6-f19b57f9a7b7",
+    "void_reason": "."
+   },
+   {
+    "id": "8db4188a-1952-4bc7-8a3e-500b124beee7",
+    "src": "carry",
+    "date": "2026-10-26",
+    "item": "이월",
+    "detail": "10/26까지 합계",
+    "points": 41,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-26T15:22:24.793033+00:00",
+    "request_id": null,
+    "student_id": "272f1128-b3bc-4dfb-a6ce-0497ca14fd86",
+    "void_reason": null
+   },
+   {
+    "id": "5ee50822-1072-4f62-a33f-eeb50fe854e9",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "결석",
+    "detail": "외과",
+    "points": 2,
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "voided_at": null,
+    "created_at": "2026-10-27T00:03:09.439794+00:00",
+    "request_id": null,
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050",
+    "void_reason": null
+   },
+   {
+    "id": "65822190-fc78-435c-91be-126fd60e9cfc",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "외과",
+    "points": 1,
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "voided_at": null,
+    "created_at": "2026-10-27T00:03:09.439794+00:00",
+    "request_id": null,
+    "student_id": "d0b82204-ef54-436c-b2d9-03e1c43132cf",
+    "void_reason": null
+   },
+   {
+    "id": "5bbf3de0-fdd3-4498-b92b-297f92284144",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "결석",
+    "detail": "외과",
+    "points": 2,
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "voided_at": null,
+    "created_at": "2026-10-27T00:03:09.439794+00:00",
+    "request_id": null,
+    "student_id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d",
+    "void_reason": null
+   },
+   {
+    "id": "70a1133e-441a-44f5-8dd2-99d636de4786",
+    "src": "att",
+    "date": "2026-10-27",
+    "item": "지각",
+    "detail": "외과",
+    "points": 1,
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "voided_at": "2026-10-27T00:37:52.939039+00:00",
+    "created_at": "2026-10-27T00:03:09.439794+00:00",
+    "request_id": null,
+    "student_id": "696a20e7-d7de-445b-80ef-f40647abbb36",
+    "void_reason": "출석 정정"
+   },
+   {
+    "id": "767cf506-5887-4753-bc05-c8f23a0b9fa6",
+    "src": "manual",
+    "date": "2026-10-27",
+    "item": "레지쌤 지적",
+    "detail": "",
+    "points": 2,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-27T14:01:54.452397+00:00",
+    "request_id": null,
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050",
+    "void_reason": null
+   },
+   {
+    "id": "3ac2a7f3-9a6b-49f1-8168-8f6b57155eec",
+    "src": "manual",
+    "date": "2026-10-27",
+    "item": "매점운반",
+    "detail": "",
+    "points": -1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-27T14:02:21.744091+00:00",
+    "request_id": null,
+    "student_id": "82bdec36-6445-4eaa-a4d4-825f347da906",
+    "void_reason": null
+   },
+   {
+    "id": "6dff6345-eff7-4d29-a74e-6d58b7507436",
+    "src": "manual",
+    "date": "2026-10-27",
+    "item": "매점운반",
+    "detail": "",
+    "points": -1,
+    "period_id": null,
+    "voided_at": null,
+    "created_at": "2026-10-27T14:02:21.744091+00:00",
+    "request_id": null,
+    "student_id": "5ab89f76-9679-4eda-9826-d3c06222bfa1",
+    "void_reason": null
+   }
+  ],
+  "excuses": [],
+  "periods": [
+   {
+    "id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "date": "2026-10-27",
+    "label": "아침 출석",
+    "morning": true,
+    "saved_at": "2026-10-26T23:22:30.635937+00:00"
+   },
+   {
+    "id": "5e4f2c2f-3060-41c4-8006-b4efa9643506",
+    "date": "2026-10-27",
+    "label": "예방치과학",
+    "morning": false,
+    "saved_at": null
+   },
+   {
+    "id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "date": "2026-10-27",
+    "label": "외과",
+    "morning": false,
+    "saved_at": "2026-10-27T00:37:52.939039+00:00"
+   }
+  ],
+  "presets": [
+   {
+    "id": "ebd90a52-1455-4e4d-aaf3-68553aeac4ce",
+    "kind": "period",
+    "name": "아침 출석",
+    "sort": 101,
+    "owner": "총대",
+    "points": 0
+   },
+   {
+    "id": "da7aeb04-dcbb-47ee-ac9a-7d84c3b74b95",
+    "kind": "item",
+    "name": "지각",
+    "sort": 101,
+    "owner": "부총대",
+    "points": 1
+   },
+   {
+    "id": "992e3405-5c64-40e7-bcc7-7f05429212d0",
+    "kind": "item",
+    "name": "결석",
+    "sort": 102,
+    "owner": "부총대",
+    "points": 2
+   },
+   {
+    "id": "07833006-d2f4-44f0-874d-e1b076efbd1e",
+    "kind": "item",
+    "name": "실습실 뒷정리 미흡",
+    "sort": 103,
+    "owner": "부총대",
+    "points": 1
+   },
+   {
+    "id": "c2164ac1-d4db-49d2-ac8a-02bccfe61f62",
+    "kind": "item",
+    "name": "제티파기",
+    "sort": 104,
+    "owner": "부총대",
+    "points": -1
+   },
+   {
+    "id": "7787b635-9866-4c84-b4d7-924fa03cd526",
+    "kind": "item",
+    "name": "레지쌤 지적",
+    "sort": 105,
+    "owner": "부총대",
+    "points": 2
+   },
+   {
+    "id": "a8c6b51a-7f9c-4dbd-a634-131b3b1c322e",
+    "kind": "item",
+    "name": "매점운반",
+    "sort": 106,
+    "owner": "부총대",
+    "points": -1
+   },
+   {
+    "id": "477a550f-1a86-4711-85cc-e93c0eed52c9",
+    "kind": "period",
+    "name": "월 1교시 국소의치학",
+    "sort": 101,
+    "owner": "부총대",
+    "points": 0
+   },
+   {
+    "id": "d88f2e00-bc6f-43c9-a783-aca25b032e7d",
+    "kind": "period",
+    "name": "화 1교시 구강악안면외과학",
+    "sort": 102,
+    "owner": "부총대",
+    "points": 0
+   },
+   {
+    "id": "cd641220-48e1-45de-8b44-4567e14cb4fd",
+    "kind": "item",
+    "name": "실습실 뒷정리 미흡",
+    "sort": 101,
+    "owner": "실습부장 1",
+    "points": 1
+   },
+   {
+    "id": "7695995a-86f1-44ed-ba9a-8dcd0a6037c9",
+    "kind": "item",
+    "name": "자체평가 미흡/지각",
+    "sort": 102,
+    "owner": "실습부장 1",
+    "points": 1
+   },
+   {
+    "id": "444a4fe5-5293-4aa3-8534-f124ece2d209",
+    "kind": "item",
+    "name": "교수님 지적",
+    "sort": 103,
+    "owner": "실습부장 1",
+    "points": 1
+   },
+   {
+    "id": "2da38581-01f6-4f2c-8242-90f4faacd0c3",
+    "kind": "period",
+    "name": "소아치과학 실습",
+    "sort": 101,
+    "owner": "실습부장 1",
+    "points": 0
+   },
+   {
+    "id": "3ceda7e0-d67b-44ff-ab98-652d831caa55",
+    "kind": "period",
+    "name": "보존수복학 실습",
+    "sort": 102,
+    "owner": "실습부장 1",
+    "points": 0
+   },
+   {
+    "id": "ed8ad035-34df-458e-b97a-5786eb4d4859",
+    "kind": "period",
+    "name": "근관치료학 실습",
+    "sort": 103,
+    "owner": "실습부장 1",
+    "points": 0
+   },
+   {
+    "id": "06e386d5-6fc0-42c2-8e39-e21d8df5ef22",
+    "kind": "item",
+    "name": "주번 지각",
+    "sort": 101,
+    "owner": "정리부장",
+    "points": 1
+   },
+   {
+    "id": "d0705f8a-99ce-4a55-bf68-e5f021d60479",
+    "kind": "item",
+    "name": "주번 결석",
+    "sort": 102,
+    "owner": "정리부장",
+    "points": 2
+   },
+   {
+    "id": "1e0626ca-4fc9-4c3b-b764-1bb694292f25",
+    "kind": "item",
+    "name": "주번 개근",
+    "sort": 103,
+    "owner": "정리부장",
+    "points": -2
+   }
+  ],
+  "requests": [],
+  "students": [
+   {
+    "id": "dd23d423-fc59-439e-9b75-76995d78e28e",
+    "no": 1,
+    "name": "강동우",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "51e8ef8f-2372-4235-9631-19cdb1d87892",
+    "no": 2,
+    "name": "강라원",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "b25c6ab2-5990-4895-9b5c-a3a0936b7b20",
+    "no": 3,
+    "name": "강수지",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
+    "no": 4,
+    "name": "고준희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "5ad15852-8313-49ad-9ba4-b1672c0ade34",
+    "no": 5,
+    "name": "곽채린",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "c3892d4c-19e9-4460-8312-a555da89c1a0",
+    "no": 6,
+    "name": "김가윤",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "a141a12a-8291-44ba-87f9-f2a0c38f1027",
+    "no": 7,
+    "name": "김건희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "272f1128-b3bc-4dfb-a6ce-0497ca14fd86",
+    "no": 8,
+    "name": "김다은",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "72344a38-0b1e-439f-bfb1-a4c34318079c",
+    "no": 9,
+    "name": "김동한",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "a8ffd467-189d-41df-8c1c-c4860ca3d5cb",
+    "no": 10,
+    "name": "김명성",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "77531312-eb23-44a5-822d-01b153936bd1",
+    "no": 11,
+    "name": "김민경",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "4adc90c8-46a4-45b2-a954-df8a769448cf",
+    "no": 12,
+    "name": "김부미",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d0c1a3d8-02e8-40c8-9aad-a8846b745272",
+    "no": 14,
+    "name": "김신찬",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "922ac255-0ec2-41c1-b006-b7c7054e5e36",
+    "no": 15,
+    "name": "김유리",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "7a773d91-6987-47e6-a7b9-8ffd7bdabd27",
+    "no": 16,
+    "name": "김유정",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d1b24b20-7153-41ef-acef-19c5f500bcf5",
+    "no": 17,
+    "name": "김인기",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "276cf435-b1d9-4ab3-9a07-846bb5bddf3d",
+    "no": 18,
+    "name": "나은서",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050",
+    "no": 19,
+    "name": "나현진",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "244fb78d-9769-4049-943f-0fe496694358",
+    "no": 20,
+    "name": "노은재",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "fce87ffc-4e3e-4428-ab50-b343a606b595",
+    "no": 21,
+    "name": "문예린",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "65c9d6c6-b24e-420b-89b6-f19b57f9a7b7",
+    "no": 22,
+    "name": "민지호",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "6a1e0090-4f2b-4349-b950-d6f9f1f15ec7",
+    "no": 23,
+    "name": "박상욱",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "b17bbec5-8149-45d4-8dcd-bf3dcc38273f",
+    "no": 24,
+    "name": "박상희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "f25e373d-4052-479e-89de-9d88ad0083bc",
+    "no": 25,
+    "name": "박세준",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "b10237df-3a8c-4bc2-8512-29c6111ee783",
+    "no": 27,
+    "name": "백인경",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "ff8827bd-4b48-4ac9-a21a-647caa9928a1",
+    "no": 28,
+    "name": "석승헌",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "ab21ef1f-8954-4f79-9ac0-2c0345096b7a",
+    "no": 29,
+    "name": "석재민",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "85254acb-bd4c-4ef1-871a-1807f863ba0e",
+    "no": 30,
+    "name": "송상욱",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "23f1b9bc-af70-4efc-afcb-55b90efb307f",
+    "no": 31,
+    "name": "송지연",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "db5d327b-3d7b-4074-a2ab-e6dbd38c7d66",
+    "no": 32,
+    "name": "송창영",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "aaf11c46-8d70-4b6d-a2a7-b71780f6178b",
+    "no": 33,
+    "name": "신하은",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "07d6bbcc-4a8b-4fe2-b005-7a75dac01249",
+    "no": 34,
+    "name": "안성원",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "13186c4b-05b3-45ae-be84-6681ff101c3c",
+    "no": 36,
+    "name": "염규정",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d0b82204-ef54-436c-b2d9-03e1c43132cf",
+    "no": 37,
+    "name": "오승아",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "82bdec36-6445-4eaa-a4d4-825f347da906",
+    "no": 38,
+    "name": "오승우",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "a0c2665b-848a-471a-96fc-cd0e03c3784b",
+    "no": 39,
+    "name": "오지희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "e936b52d-82d4-42f2-8749-3c85afbcb0d3",
+    "no": 40,
+    "name": "유복원",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "0347627d-4ebf-441b-9d95-216ac27d6692",
+    "no": 41,
+    "name": "유성빈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "97f8c74a-9e95-4415-aaba-8723fa7caa6c",
+    "no": 42,
+    "name": "유혜경",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "4ac7c499-3049-4e2f-8cc4-cfdc8fadce5e",
+    "no": 43,
+    "name": "이기훈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "68c9b940-7a31-4554-a260-63b51a7ec4ab",
+    "no": 44,
+    "name": "이민재",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "2ea1d665-fb0e-425d-a443-141209a5efaf",
+    "no": 45,
+    "name": "이성현",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d9907c81-e677-4634-af67-5e5fb6b3a594",
+    "no": 46,
+    "name": "이수현",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "0585ac59-4ac2-42b4-8353-a1c1d4fcc2a9",
+    "no": 47,
+    "name": "이승재",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "6beab38a-2660-4320-94b1-e6e6115ee3dd",
+    "no": 48,
+    "name": "이완규",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "1a10b781-11e2-436a-abe7-0d3c01f0984f",
+    "no": 49,
+    "name": "이재강",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "5ab89f76-9679-4eda-9826-d3c06222bfa1",
+    "no": 50,
+    "name": "이주호",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "cf5fa69c-3b16-4283-901c-67543066e89f",
+    "no": 51,
+    "name": "이희진",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "21de587f-9858-4503-95a0-ac0a46f84ab7",
+    "no": 52,
+    "name": "임성영",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "8c0b6d40-c5de-40ab-9178-5d8f9e9becee",
+    "no": 53,
+    "name": "장유나",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "846d0849-62c4-4fb4-881c-06e711db4d6c",
+    "no": 54,
+    "name": "장유리",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d40b2906-3ccd-4df7-a287-f7dc77dfbe43",
+    "no": 55,
+    "name": "장은빈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "c9bbd256-f1bb-4a93-824f-185e5eb7a2ff",
+    "no": 56,
+    "name": "장준학",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "7aadae36-e033-4fa3-bd50-148114c83328",
+    "no": 57,
+    "name": "전재범",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "9bab2c3b-9893-4f43-9439-c49a5ec822c5",
+    "no": 58,
+    "name": "전현도",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "5b3eba56-374e-4830-9fc0-38c286adf179",
+    "no": 59,
+    "name": "정성훈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "67ab9db2-c08c-4b20-9998-68d2c8b8b645",
+    "no": 60,
+    "name": "정원찬",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "4de65c2d-13ce-47e3-9a3a-498b19f1c77a",
+    "no": 61,
+    "name": "정재원",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "f2cc680b-f7b8-4113-9ae6-eb8090755bf6",
+    "no": 62,
+    "name": "정주희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "61b8fc42-3c5f-43ea-b1c8-ddcbdea423ff",
+    "no": 63,
+    "name": "정준혁",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "dbbfe3b9-9ebd-42a1-aa8a-b0581f1c2fc2",
+    "no": 64,
+    "name": "조경빈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "5da8ff6f-6ad2-4a5c-8274-171489e93abc",
+    "no": 65,
+    "name": "조성훈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "70247e48-bd75-4345-8f03-7c16d622f604",
+    "no": 66,
+    "name": "최다은",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "696a20e7-d7de-445b-80ef-f40647abbb36",
+    "no": 67,
+    "name": "최윤혁",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d",
+    "no": 68,
+    "name": "한석희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "9565e4fc-7ea7-42f8-ad4b-553748359a9e",
+    "no": 69,
+    "name": "현지은",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "d4e678b0-072b-4b8e-9c38-e87923553b61",
+    "no": 70,
+    "name": "황솔빈",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "c4acf34c-8779-40b4-9319-d816bbb48d2c",
+    "no": 13,
+    "name": "김사희",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "191c3494-9e39-48dd-a033-77c0e3494799",
+    "no": 26,
+    "name": "박찬서",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   },
+   {
+    "id": "810eb504-4162-4f2d-a491-c6b0691b7960",
+    "no": 35,
+    "name": "양산업",
+    "active": true,
+    "exempt": false,
+    "created_at": "2026-09-26T10:56:22.594204+00:00"
+   }
+  ],
+  "reactions": [
+   {
+    "id": "93d6662c-2379-4f9a-8ec0-20e4b0a9c2e5",
+    "adj": true,
+    "date": "2026-10-27",
+    "merit": null,
+    "answer": "",
+    "period": "이월",
+    "status": "approved",
+    "question": "부총대 조정",
+    "created_at": "2026-10-26T15:06:52.219599+00:00",
+    "student_id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
+    "review_note": null,
+    "reviewed_at": "2026-10-26T15:06:52.219599+00:00",
+    "reviewed_by": "부총대"
+   },
+   {
+    "id": "17b80cde-1824-4bae-ae4d-b717fae514ed",
+    "adj": true,
+    "date": "2026-10-27",
+    "merit": null,
+    "answer": "",
+    "period": "이월",
+    "status": "approved",
+    "question": "부총대 조정",
+    "created_at": "2026-10-26T15:06:52.219599+00:00",
+    "student_id": "f9ca8c9e-279d-43aa-a0a4-15a7ac2c8b30",
+    "review_note": null,
+    "reviewed_at": "2026-10-26T15:06:52.219599+00:00",
+    "reviewed_by": "부총대"
+   }
+  ],
+  "attendance": [
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "922ac255-0ec2-41c1-b006-b7c7054e5e36"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "ab21ef1f-8954-4f79-9ac0-2c0345096b7a"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "d0b82204-ef54-436c-b2d9-03e1c43132cf"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "4ac7c499-3049-4e2f-8cc4-cfdc8fadce5e"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "d40b2906-3ccd-4df7-a287-f7dc77dfbe43"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "c9bbd256-f1bb-4a93-824f-185e5eb7a2ff"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "9bab2c3b-9893-4f43-9439-c49a5ec822c5"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "696a20e7-d7de-445b-80ef-f40647abbb36"
+   },
+   {
+    "status": "late",
+    "period_id": "9200e071-b2f1-4b76-8ef8-127de4b2534b",
+    "student_id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d"
+   },
+   {
+    "status": "absent",
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "student_id": "2af2ef5c-00a4-4765-ba24-00d40b4c1050"
+   },
+   {
+    "status": "late",
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "student_id": "d0b82204-ef54-436c-b2d9-03e1c43132cf"
+   },
+   {
+    "status": "absent",
+    "period_id": "fef99948-7090-4a2a-90dc-56b365a6a1fc",
+    "student_id": "29db94e6-3f0b-40cb-a9ed-0d84cf4a930d"
+   }
+  ],
+  "ledger_private": [
+   {
+    "ledger_id": "f5d66857-0bf5-4339-aa02-d400f0bbc13f",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "e8175199-25d2-44fc-8bc2-12a3b784c5b9",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "b2b3c4cf-2b4b-4b29-a73f-73859361c6ab",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "93c43bc6-7a26-4573-b796-79740da34eec",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f545ca8c-8150-4ef7-92ea-e3ca51ebb7e1",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "22cbec4c-ef97-4859-a8b8-6f586513965a",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "393a89cf-ffaa-4ee1-8844-843444522ab8",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "d6f8345f-a341-4697-9d37-0965920e9603",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "9249dcd2-f452-4c00-b014-d912f0b6a0ac",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "5a48bc7d-53c7-410f-bb89-a1da0f4cd996",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "665999f8-3abc-4be3-b06d-563aed601cdd",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "68098c9f-2c16-4ce8-8c2c-f3fb9e0abaed",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "1c8a0426-31b7-44f0-b778-1f8882e0c533",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "798f394b-10ce-4054-8c87-de0148c8ce68",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "abc8b6ad-67c9-4a3b-aaad-79f8523c24f1",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f5b5a3d3-febd-4318-baa1-fde9eb695095",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "dcb03c1e-4eb0-4eee-91c7-928f07af1cb0",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "964e29df-cdbe-4ed2-9e8e-1c27d66578b1",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "fd81fd33-73f7-4ba2-b08e-4ca59faa750f",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "fb394436-0711-4f31-a0a9-9f4c9c5590dc",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "cffe8422-fe08-4b62-9002-dc5636ea8497",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "7cd4c366-2f28-4c53-8e03-438b732d0285",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "b02c3fc1-499c-4616-b12b-8fb4aee990e6",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "9b596b5e-0a7d-4831-a2e2-49691036adf3",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f246a436-e58e-4ef4-bc59-879b8c1488ef",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "8a0ae164-df33-45ab-9e0c-604b67436634",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "15dbc337-cd25-4bc3-8730-5368b377ae56",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "b3c88e28-65f3-4b19-9e96-601c8beb4cbc",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "9b33820e-7aa4-4457-a37b-1c67483fdd7c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "6f65052a-0bb5-4721-bcdb-f0bc7fbaf576",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "4f1b92eb-4d6a-4aa5-b69d-a112cec9747c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "23a51150-87a2-4a72-8fd7-07c8fb6ea901",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "42ab1a55-115a-47d7-93bd-e5850990787c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "c65fdffd-0ef2-4077-bbcb-ea2f8e3781ac",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "7dd59d2e-d965-47bb-9785-b3c8a83168af",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "ffb4fa58-32e7-49b5-8f5a-d064d074de8c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "ab69452c-3aa4-45dd-ab08-f95dd4f39f75",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "b8a5f3bf-85c4-4300-8674-feef2fdf4a01",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "abb93ebc-027b-498d-99d4-c06a47a52c1b",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f8803f77-8ed4-46bf-9f87-c89261a724f3",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "ac891c36-5b53-4fff-b5f9-afd0dc8a021c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "0b843b24-c7b7-4cc3-92c8-0c7bf4cde4d2",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "2866f6e6-ea6c-4c31-a660-39f17dee3797",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "3d2a5de3-1613-4a2a-b7b4-5bee20eff693",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "97f1b9aa-6d39-459b-bb54-8bd1340641f8",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a1aa70fd-00eb-4b5b-8139-a48315ca16b1",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "652715fb-55dd-4e09-9d81-6f070032dd56",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "af26a374-b18e-486b-8e76-e4fa920bb551",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "10824ccc-9a17-4116-b129-ebafd1d3f585",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "93e77435-606f-4580-a758-1f1aa51bac32",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "5fe05d3d-bcfe-4d93-a941-bf65b4e01c36",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "eb2d8710-7b63-42bd-98f6-583fa7857530",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "46a3e193-0df4-4cfd-a969-88d0bf524a6c",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "40331339-ab21-45ba-a07c-e60a2973a6b4",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "ca7d6251-b606-4e4c-be0d-02dcb6899f35",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "9a774365-f739-4756-a5d4-00b7994cfd2d",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "4a9a7138-2668-462d-96c6-7ab295f68fa0",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f7f19d99-462e-44a4-a4f8-d89e60f4f066",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "e6aaa5c6-666d-4e69-9bd5-8881e390e49d",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "ef79dccc-9b3c-45f7-a6ee-1a8a75c49e63",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "e545b2ef-7003-41ad-9ec5-522d6b670767",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "37a78f44-495d-4c35-a4c8-8e5a6a6e7877",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "7170f367-6f35-4188-a867-3ee99d23e805",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "73e1f85d-09cc-47a5-939b-88e27ec89b69",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "72497bfd-349f-42e9-80fd-35cd434495b9",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "6084f171-e3ea-48d9-9fa8-1d4d4fa19917",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "4c45c06f-31a9-4df6-870a-5c487aacbab9",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "de25a603-3dda-463e-816c-7c1c64197707",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "f89c23df-4b2b-4c3d-9fa2-967ff1aca61a",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "8db4188a-1952-4bc7-8a3e-500b124beee7",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "d6a656b4-31b5-4c20-9040-ab8cd4ba9b25",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a9c353be-a94c-4f1e-aa28-09ccc439297a",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a8314fba-2142-4077-976c-ad41a1704456",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "8f7b6de0-5bb9-469a-80bd-32e17f1a7891",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "23f0901e-c71f-40db-ac85-42d71b54b98b",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "d8c78358-732a-484d-ba8c-e8f0dd945891",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "6e4a7c66-8077-4645-ad37-fb0ea65b9272",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "44152c8a-61b3-4401-8a86-69721b77e4ad",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "a16fab0c-8954-45f6-8130-0cd0510bffc2",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "db79e697-5425-4acc-9896-4949129aa13e",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "5ee50822-1072-4f62-a33f-eeb50fe854e9",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "65822190-fc78-435c-91be-126fd60e9cfc",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "5bbf3de0-fdd3-4498-b92b-297f92284144",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "70a1133e-441a-44f5-8dd2-99d636de4786",
+    "voided_by": "부총대",
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "767cf506-5887-4753-bc05-c8f23a0b9fa6",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "3ac2a7f3-9a6b-49f1-8168-8f6b57155eec",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "6dff6345-eff7-4d29-a74e-6d58b7507436",
+    "voided_by": null,
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   },
+   {
+    "ledger_id": "bb6ca8b6-571e-494d-9c7a-3879e9f63241",
+    "voided_by": "부총대",
+    "created_by": "부총대",
+    "approved_by": null,
+    "requested_by": null
+   }
+  ],
+  "ledger_revisions": [],
+  "attendance_requests": []
+ },
+ "version": 1,
+ "createdAt": "2026-10-28 07:07"
+}
